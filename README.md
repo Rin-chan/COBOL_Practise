@@ -4,4 +4,5 @@ Learning and practising COBOL language.
 This respository is used as a storage for anything related to COBOL.
 
 ### Folder guide
-tutorial - Learning COBOL
+learning - Learning COBOL
+tutorial - Practising COBOL Questions from http://www.csis.ul.ie/cobol/examples/default.htm
