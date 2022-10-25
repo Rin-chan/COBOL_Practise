@@ -2,7 +2,8 @@
 Learning and practising COBOL language.
 <br>
 This respository is used as a storage for anything related to COBOL.
-<br>
+
+### Running COBOL
 To run the file using GnuCOBOL (https://gnucobol.sourceforge.io/)
 ```cobc -x filename.cob```
 
