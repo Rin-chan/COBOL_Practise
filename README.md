@@ -2,6 +2,9 @@
 Learning and practising COBOL language.
 <br>
 This respository is used as a storage for anything related to COBOL.
+<br>
+To run the file using GnuCOBOL (https://gnucobol.sourceforge.io/)
+```cobc -x filename.cob```
 
 ### Folder guide
 learning - Learning COBOL
