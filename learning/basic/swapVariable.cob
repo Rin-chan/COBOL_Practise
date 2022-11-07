@@ -16,3 +16,4 @@
 031500 move WS-TEMP to WS-B.
 031600 display "WS-A new value is " WS-A.
 031700 display "WS-B new value is " WS-B.
+031800 stop run.
